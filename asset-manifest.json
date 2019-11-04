@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hangman-game-react/static/css/main.43768a43.chunk.css",
+    "main.js": "/hangman-game-react/static/js/main.fb768fbd.chunk.js",
+    "main.js.map": "/hangman-game-react/static/js/main.fb768fbd.chunk.js.map",
+    "runtime-main.js": "/hangman-game-react/static/js/runtime-main.2742c63e.js",
+    "runtime-main.js.map": "/hangman-game-react/static/js/runtime-main.2742c63e.js.map",
+    "static/js/2.33643b97.chunk.js": "/hangman-game-react/static/js/2.33643b97.chunk.js",
+    "static/js/2.33643b97.chunk.js.map": "/hangman-game-react/static/js/2.33643b97.chunk.js.map",
+    "index.html": "/hangman-game-react/index.html",
+    "precache-manifest.e5ac9489d8c06dd3b1b3409e827e9c28.js": "/hangman-game-react/precache-manifest.e5ac9489d8c06dd3b1b3409e827e9c28.js",
+    "service-worker.js": "/hangman-game-react/service-worker.js",
+    "static/css/main.43768a43.chunk.css.map": "/hangman-game-react/static/css/main.43768a43.chunk.css.map",
+    "static/media/0.jpg": "/hangman-game-react/static/media/0.db9097e8.jpg",
+    "static/media/1.jpg": "/hangman-game-react/static/media/1.fbff4784.jpg",
+    "static/media/2.jpg": "/hangman-game-react/static/media/2.c4ea9528.jpg",
+    "static/media/3.jpg": "/hangman-game-react/static/media/3.62a781c8.jpg",
+    "static/media/4.jpg": "/hangman-game-react/static/media/4.0f8ca81e.jpg",
+    "static/media/5.jpg": "/hangman-game-react/static/media/5.1b557aa7.jpg",
+    "static/media/6.jpg": "/hangman-game-react/static/media/6.c80394c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2742c63e.js",
+    "static/js/2.33643b97.chunk.js",
+    "static/css/main.43768a43.chunk.css",
+    "static/js/main.fb768fbd.chunk.js"
+  ]
+}

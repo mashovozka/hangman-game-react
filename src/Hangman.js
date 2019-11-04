@@ -40,7 +40,7 @@ class Hangman extends Component {
 
     guessedWord(){
        return this.state.answer.split("")
-       .map(ltr =>(this.state.guessed.has(ltr) ? ltr.toUpperCase() : "_"))
+       .map(ltr =>(this.state.guessed.has(ltr) ? ltr : "_"))
     } 
 
 
@@ -60,7 +60,7 @@ class Hangman extends Component {
         onClick={this.handleGuess}
         disabled={this.state.guessed.has(ltr)}
         >
-        {ltr.toUpperCase()}
+        {ltr}
         </button>
         )
    }
